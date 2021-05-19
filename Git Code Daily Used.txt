@@ -1,0 +1,66 @@
+					Git Codes Daily Used
+				Installation git Throught SCM Website...
+
+$ git version 		>>>-----------To Check Git Version-----
+
+$ git 		>>>-----------Git Used-------------
+
+$ git config 	>>>--global user.name ----------To give User Username git-------
+
+$ git config 	>>>--global user.Email ---------To give Email git identfy
+
+$ git list 	>>>---------List-----------
+
+$ git diff 	>>>-----------diffrence between commit----------
+
+$ git diff --staged 	 >>>---------commit diff staged seen-----
+
+$ git commit -m "This is a good boy" 	>>>------------Comments while change made in git files--------
+
+$ git status	 >>>-------------Used in first to check Out task remaining--------------
+
+$ git init 	 >>>---------------Used in secong tracking files in git bash here------------
+
+$ git add --a 	 >>>>--------------------add tracking files changes------------
+
+$ git add .  	 >>>---------------------add tracking files as up as-------------
+
+$ rm -rf .git 	 >>>--------------delete respiratory-------------
+
+$ git rm static.txt 	>>>>------------Delete Files-------------
+
+$ git mv static.txt static_rename.txt 	>>>---------------Rename-------------
+
+$ git rm --cached db.accbd 	>>>------------Untracked-------------
+
+$ git log -p 	 >>>>----------------Commit View--------------
+
+$ git log --stat 	>>>>-------------Commit View---------------
+
+$ git log --preety=1 [ Short / full = 0 ] 	>>>>------------Commit View----------
+
+$ git log since = 2 mon 	>>>-------------------Commit View-----------------
+
+$ git checkout --apple.txt 	>>>-------------Checkout View------------
+
+$ git checkout -f 	>>>>----------------Staged View---------------
+
+$ git remote -v 	>>>>------------------Remote view--------------
+
+$ git push -u origin master 	>>>>-----------push code into master-------------
+
+$ git push -u origin develop ( any branch ) 	>>>>---------------push code in any branch by name change-----
+
+$ git merge trycleanup 	>>>>----------merge overwrite code into master by master branch-------------
+
+$ git commit -a -m "_______" 	>>>>---------------Before push or checkout commit this cmds------------
+
+$ git restore this.txt 	>>>----------------------Restore files If any mistakes Made-----------------
+
+$ git push origin  bugfix:mybugfix 	>>>>----------------Rename of Branch-------------
+
+$ git branch -D bugfix 	  >>>>--------------------Permentally Deleted branches ----------------
+
+$ git push origin master 	>>>>-----------------Push cmds ----------------
+
+$ git push -d origin bugfix 	>>>>-------------------delete branch--------------------
